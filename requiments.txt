@@ -1,0 +1,6 @@
+colorama==0.4.3
+fake-headers==1.0.2
+free-proxy==1.0.1
+requests==2.24.0
+urllib3==1.25.9
+

@@ -1,0 +1,4 @@
+# Python's cache folders
+__pycache__/*
+venv/
+.idea/
